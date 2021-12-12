@@ -29,4 +29,4 @@ console.log(str.trim());  // remove whitespaces present at the front and end//
 // join
 let tem=str1.join("+"); // join fucntion only works for array..//
 console.log(str1);
-
+console.log("hello world: ");

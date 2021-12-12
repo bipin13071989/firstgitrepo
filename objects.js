@@ -1,3 +1,5 @@
+// to run the javascroipt  file one should write 
+ //    node filename.extension
 // what is objects => it is a group of  key-value pair//
 // let declare objecst//
 //key: value   -> call it property//

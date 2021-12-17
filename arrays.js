@@ -1,6 +1,6 @@
 // array declare
 // let arr=[];
-let arr=[1,2,3,4,5];
+let arr=[1,2,3,4,5]; // JUST LIKE PYTHON LIST//
 console.log(arr,"\n");
 console.log(arr.length);
 // let's see while loop//

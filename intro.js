@@ -4,7 +4,8 @@
 console.log("Bipin kumar Jha: "); 
 // how to declare variable, it is just like python decalring system... we can use (let,var,const)
 // no need to define data type, compiler will automatically detect the data type//
-/*let a;
+/*
+let a;
 console.log(a); // output will show undefined , because it is not containing something//
 a=10;
 console.log("This is integer data type: ", a); // it will print 10 which is numeric ...

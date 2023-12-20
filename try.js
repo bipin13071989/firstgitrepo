@@ -1,1 +1,1 @@
-console.log("This is just to check whether extra file can be pused to github or not")
+console.log("This is just to check whether extra file can be pushed to github or not")
